@@ -4,7 +4,7 @@
 <!--   <img src="" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>README Template</b></h3>
+  <h3><b>Billy's Portfolio</b></h3>
 
 </div>
 
