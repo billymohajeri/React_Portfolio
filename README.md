@@ -4,7 +4,7 @@
 <!--   <img src="" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>Billy's Portfolio</b></h3>
+  <h3><b>Billy Portfolio</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-**JavaScript Template** is a...
+**Billy Portfolio** is a website where you can find examples of my work, along with information about my technical and professional qualifications, as well as how to get in touch with me.
 
 ## 🛠 Built With <a name="built-with"></a>
 
