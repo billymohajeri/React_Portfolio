@@ -61,9 +61,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Display some of my projects**
+- **Provide a contact me form**
+- **Show my info and social accounts links**
+- **Provide a downloadable version of my resume**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
