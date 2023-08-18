@@ -94,10 +94,6 @@ Install this project with:
 
 To run the project, execute the following command:
 
-### Run tests
-
-To run tests, run the following command:
-
 ### Deployment
 
 You can deploy this project using:
