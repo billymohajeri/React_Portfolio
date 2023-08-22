@@ -29,7 +29,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Billy Portfolio <a name="about-project"></a>
 
 **Billy Portfolio** is a website where you can find examples of my work, along with information about my technical and professional qualifications, as well as how to get in touch with me.
 
