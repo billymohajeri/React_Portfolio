@@ -42,6 +42,9 @@
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
+  <ul>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+  </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
